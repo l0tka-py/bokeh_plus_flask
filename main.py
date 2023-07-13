@@ -3,8 +3,8 @@ import os
 from flask import Flask, render_template, request, jsonify
 from bokeh.resources import INLINE
 
-from crate_plot import *
-from work_with_db import *
+from sub_programs.crate_plot import *
+from sub_programs.work_with_db import *
 
 
 project_root = os.getcwd()

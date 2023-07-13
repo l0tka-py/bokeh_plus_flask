@@ -32,10 +32,24 @@ body {
     text-align: center;
 }
 
-.data p {
-    display: inline-block;
+.data {
     font-size: 1.25rem;
+    font-weight: bold;
+    
+}
+
+.data p{
+    display: inline-block;
     margin-bottom: 0.2rem;
+}
+
+.info {
+    font-weight: normal;
+    color: #1e601e;
+}
+
+.info::first-letter {
+    text-transform: uppercase;
 }
 
 .button_row {
