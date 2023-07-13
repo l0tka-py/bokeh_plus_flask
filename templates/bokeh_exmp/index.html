@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	{{ js_resources | indent(4) | safe }}
+	<script src="{{ url_for('static', filename='bokeh_exmp/js/jquery.min.js') }}"></script>
+	<script src="{{ url_for('static', filename='bokeh_exmp/js/main.js') }}"></script>
+	{{ script | indent(4) | safe }}
+	{{ css_resources | indent(4)|safe }}
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='bokeh_exmp/css/main.css') }}">
+	<title>Cars</title>
+</head>
+
+<body>
+	<h1 class="main_header">Пример работы</h1>
+	<div class="container plot">
+		<div class="row">
+			<div class="col">
+				{{ div | safe }}
+			</div>
+		</div>
+	</div>
+	<div class="container car" hidden>
+		<div class="about_car">
+			<div class="car_header">
+				<h2>Информация о машине</h2>
+			</div>
+			<div class="data">
+				<p>Производитель:
+				<p class="car_creator"></p>
+				</p>
+			</div>
+			<div class="data">
+				<p>Тип кузова:
+				<p class="body-style"></p>
+				</p>
+			</div>
+			<div class="data">
+				<p>Мощность л.с:
+				<p class="horsepower"></p>
+				</p>
+			</div>
+			<div class="data">
+				<p>Привод:
+				<p class="drive-wheels"></p>
+				</p>
+			</div>
+			<div class="data">
+				<p>Цена $:
+				<p class="price"></p>
+				</p>
+			</div>
+			<div class="button_row">
+				<button class="button close" onclick="close_info()">Закрыть</button>
+			</div>
+		</div>
+	</div>
+</body>
+
+</html>
