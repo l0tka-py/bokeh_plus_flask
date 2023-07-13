@@ -39,10 +39,10 @@
 Все скриншоты доступны по ссылке - https://github.com/l0tka-py/images/tree/eabacda4479642b64784dc346f4ff93a26d682c6  
 
 ### Открываем окно браузера:
-![img1]([https://github.com/l0tka-py/images/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-07-14%20000627.png])  
+![img1](https://github.com/l0tka-py/images/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-07-14%20000627.png)  
 ### Выбор объекта и отображение его карточки
-![img2]([https://github.com/l0tka-py/images/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-07-14%20000710.png])
-![img3]([https://github.com/l0tka-py/images/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-07-14%20000742.png])
+![img2](https://github.com/l0tka-py/images/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-07-14%20000710.png)
+![img3](https://github.com/l0tka-py/images/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-07-14%20000742.png])
 ### Удаление объекта
-![img4]([https://github.com/l0tka-py/images/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-07-14%20000916.png])
-![img5]([https://github.com/l0tka-py/images/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-07-14%20001552.png])
+![img4](https://github.com/l0tka-py/images/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-07-14%20000916.png)
+![img5](https://github.com/l0tka-py/images/blob/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-07-14%20001552.png)
