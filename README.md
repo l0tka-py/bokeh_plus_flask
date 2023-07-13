@@ -24,16 +24,16 @@
 8) Тестировать приложение :)
 
 ## Состав приложения
-|-main.py - Главный исполняемый скрипт;
-|-requirments.txt - список зависимостей;
-|--templates/bokeh_exmp/index.html - главный html файл проекта
-|--static/bokeh_exmp/css/main.css - главный файл стилей
-|--static/bokeh_exmp/js/main.js - главный исполняемый js файл, в нем происходит работа с объектами графика
-|--static/bokeh_exmp/js/jquery.min.js - jquery
-|--sub_programs/create_plot.py - главный файл где инициализируется график
-|--sub_programs/work_with_db.py - файл для работы с бд
-|--db/Cars_80x.bokeh_cars.json - файл бд (изначально использовал mongo.db, но подумал что будет не удобно для быстрой 
-проверки и в итоговом скрипте оставил только работу с json)
+|-main.py - Главный исполняемый скрипт;  
+|-requirments.txt - список зависимостей;  
+|--templates/bokeh_exmp/index.html - главный html файл проекта;  
+|--static/bokeh_exmp/css/main.css - главный файл стилей;  
+|--static/bokeh_exmp/js/main.js - главный исполняемый js файл, в нем происходит работа с объектами графика;  
+|--static/bokeh_exmp/js/jquery.min.js - jquery;  
+|--sub_programs/create_plot.py - главный файл где инициализируется график;  
+|--sub_programs/work_with_db.py - файл для работы с бд;  
+|--db/Cars_80x.bokeh_cars.json - файл бд (изначально использовал mongo.db, но подумал что будет не удобно для быстрой  
+проверки и в итоговом скрипте оставил только работу с json).  
 
 ## Пример работы
 Все скриншоты доступны по ссылке - https://github.com/l0tka-py/images/tree/eabacda4479642b64784dc346f4ff93a26d682c6  
